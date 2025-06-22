@@ -1,16 +1,23 @@
-## Hi there 👋
+# Khori Powell — Cybersecurity & Software Developer 🚀
 
-<!--
-**KP3530/KP3530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 Currently working on
+Building automation & network security tools like the Nmap Scan Reporter and Phishing Email Detector.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Projects portfolio
+All my projects are available here on GitHub:  
+[https://github.com/KP3530](https://github.com/KP3530)
+
+---
+
+### 📫 Let's Connect!
+- Email me at khorant30@gmail.com  
+- Feel free to reach out for more info or resume
+
+---
+
+### Connect with me
+[![GitHub](https://img.shields.io/badge/GitHub-KP3530-181717?style=flat&logo=github&logoColor=white)](https://github.com/KP3530)  
