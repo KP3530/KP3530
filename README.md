@@ -1,4 +1,9 @@
+![banner](https://github.com/user-attachments/assets/9e4f1d1e-58f4-4f02-beb7-09ef7fcc046b)
 # Khori Powell — Cybersecurity & Software Developer 🚀
+
+
+
+
 
 ---
 
