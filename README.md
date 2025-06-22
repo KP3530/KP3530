@@ -14,7 +14,7 @@ Building automation & network security tools like the Nmap Scan Reporter and Phi
 
 ### 💻 Projects portfolio
 All my projects are available here on GitHub:  
-[https://github.com/KP3530](https://github.com/KP3530)
+[https://github.com/KP3530](https://github.com/KP3530/my-projects)
 
 ---
 
